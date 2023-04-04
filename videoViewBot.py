@@ -1,5 +1,3 @@
-# bot watch
-
 import random, os, webbrowser, time
 
 # enter url you want to use
